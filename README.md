@@ -5,7 +5,7 @@ With 10 years of experience in UI design and web application development, my exp
 - 🔭 I’m currently working on a job board for the beauty and barber industry
 - 🌱 I recently created a blog on all things Ruby and supporting topics around web development [MugenRuby.com](https://mugenruby.com)
 - 👯 I’m looking to collaborate with mobile app developers where I can help out with the API and backend.
-- 🤔 I’m looking for help with ...
+- 🤔 I’m looking for help with a Neovim plugin I build [Chronos.nvim](https://github.com/adrianvalenz/chronos.nvim)
 - 💬 Ask me about anything code, design, business etc.
 - 📫 How to reach me: [AdrianValenz.com](https://adrianvalenz.com)
 - ⚡ fun_facts = ["Core member of BridgetownRB 🌉", "Licensed Barber for over 16 years 💈", "90s Honda enthusiast 🚗"]
