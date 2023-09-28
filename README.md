@@ -1,4 +1,15 @@
-### Hi there 👋
+### Hi there, I'm Adrian 👋
+
+With 10 years of experience in UI design and web application development, my expertise spans both design and coding. While possessing a broad skill set, my primary focus lies in Ruby and JavaScript. Over the years, numerous MVPs and products have been designed and built from scratch under my guidance, always adhering to conventions and best practices.
+
+- 🔭 I’m currently working on a job board for the beauty and barber industry
+- 🌱 I recently created a blog on all things Ruby and supporting topics around web development [MugenRuby.com](https://mugenruby.com)
+- 👯 I’m looking to collaborate with mobile app developers where I can help out with the API and backend.
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about anything code, design, business etc.
+- 📫 How to reach me: [AdrianValenz.com](https://adrianvalenz.com)
+- ⚡ fun_facts = ["Core member of BridgetownRB 🌉", "Licensed Barber for over 16 years 💈", "90s Honda enthusiast 🚗"]
+
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=adrianvalenz&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
