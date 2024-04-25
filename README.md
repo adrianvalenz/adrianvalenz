@@ -2,7 +2,7 @@
 
 With 10 years of experience in UI design and web application development, my expertise spans both design and coding. While possessing a broad skill set, my primary focus lies in Ruby and JavaScript. Over the years, numerous MVPs and products have been designed and built from scratch under my guidance, always adhering to conventions and best practices.
 
-- 🔭 I’m currently working on a job board for the beauty and barber industry
+- 🔭 I’m currently working on a locally-focused classified listing service for my community: [CentralCoastClassifieds.com](https://centralcoastclassifieds.com)
 - 🌱 I recently created a blog on all things Ruby and supporting topics around web development [MugenRuby.com](https://mugenruby.com)
 - 👯 I’m looking to collaborate with mobile app developers where I can help out with the API and backend.
 - 🤔 I’m looking for help with a Neovim plugin I build [Chronos.nvim](https://github.com/adrianvalenz/chronos.nvim)
