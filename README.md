@@ -1,6 +1,6 @@
 ### Hi there, I'm Adrian 👋
 
-With 10 years of experience in UI design and web application development, my expertise spans both design and coding. While possessing a broad skill set, my primary focus lies in Ruby and JavaScript. Over the years, numerous MVPs and products have been designed and built from scratch under my guidance, always adhering to conventions and best practices.
+With 10 years of experience in UI design and web application development, my expertise spans both design and coding. While possessing a broad skill set, my primary focus lies in Ruby, JavaScript, and PHP. Over the years, numerous MVPs and products have been designed and built from scratch under my guidance, always adhering to conventions and best practices.
 
 - 🔭 I’m currently working on a locally-focused classified listing service for my community: [CentralCoastClassifieds.com](https://centralcoastclassifieds.com)
 - 🌱 I recently created a blog on all things Ruby and supporting topics around web development [MugenRuby.com](https://mugenruby.com)
