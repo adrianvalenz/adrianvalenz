@@ -11,7 +11,7 @@ With 10 years of experience in UI design and web application development, my exp
 - ⚡ fun_facts = ["Core member of BridgetownRB 🌉", "Licensed Barber for over 16 years 💈", "90s Honda enthusiast 🚗"]
 
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=adrianvalenz&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+<!-- [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=adrianvalenz&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats) -->
 
 <!--
 **adrianvalenz/adrianvalenz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
